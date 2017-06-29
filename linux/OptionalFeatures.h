@@ -1,14 +1,14 @@
 // Optional Features
 
 // Uncomment this line to enable MP3 support
-//#define ENABLE_MP3
+#define ENABLE_MP3
 
 // Uncomment this line to enable AAC support
-//#define ENABLE_AAC
+#define ENABLE_AAC
 
 // Uncomment this line to enable the Radio source
-//#define ENABLE_RADIO
-#define TUNEIN_PARTNER_ID TUNEIN_PARTNER_ID_STRING
+#define ENABLE_RADIO
+#define TUNEIN_PARTNER_ID "16"
 
 // Uncomment this line to enable Tidal service support
 //#define ENABLE_TIDAL
